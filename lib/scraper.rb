@@ -5,10 +5,6 @@ require_relative './course.rb'
 
 class Scraper
   
-  def get_page
-      # more code coming soon!
-  end
-  
   
   
   
